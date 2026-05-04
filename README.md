@@ -23,7 +23,6 @@ The notebook is designed to:
 ## Key Features
 
 - Uses the YouTube Data API to gather channel and video data
-- Handles ISO 8601 duration conversion to numeric seconds
 - Cleans views, likes, and comments for reliable analysis
 - Derives engagement rate from likes, comments, and views
 - Supports exploratory data analysis and visualization
